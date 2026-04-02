@@ -1,0 +1,41 @@
+#EXTM3U
+
+# ===== NASIONAL =====
+#EXTINF:-1 group-title="Nasional",TVRI Nasional
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 group-title="Nasional",TVRI Sport
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRISport)/index.m3u8
+
+#EXTINF:-1 group-title="Nasional",Metro TV
+https://live.metrotvnews.com/hls/metrotv.m3u8
+
+#EXTINF:-1 group-title="Nasional",Kompas TV
+https://cdn02.wowza.com/1/U0ZqZ2hVY2ZVbGxM/KompasTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Nasional",iNews
+https://live.inews.id/hls/inews.m3u8
+
+# ===== DAERAH =====
+#EXTINF:-1 group-title="Daerah",TVRI Jawa Barat
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRIJawaBarat)/index.m3u8
+
+#EXTINF:-1 group-title="Daerah",TVRI Jawa Tengah
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRIJawaTengah)/index.m3u8
+
+#EXTINF:-1 group-title="Daerah",TVRI Jawa Timur
+https://ott.tvri.go.id/Content/HLS/Live/Channel(TVRIJawaTimur)/index.m3u8
+
+# ===== RELIGI =====
+#EXTINF:-1 group-title="Religi",TV9 Nusantara
+https://cdn-tvlive.tv9.co.id/hls/tv9.m3u8
+
+#EXTINF:-1 group-title="Religi",Rodja TV
+https://rodjatv.akamaized.net/hls/live.m3u8
+
+# ===== INTERNASIONAL (INDO LANGUAGE) =====
+#EXTINF:-1 group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
